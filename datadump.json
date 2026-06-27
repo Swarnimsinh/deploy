@@ -1,0 +1,393 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$ga04y7ohvEaal4TNHpzyxm$PbOwKV+I7jEK0/wmYCzex6LW3JRbjwwvmJMLLIvsQV4=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "swarnim",
+        "first_name": "",
+        "last_name": "",
+        "email": "xyz@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-05T04:19:30.295Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$kZDt31f4006JpTj56Wwmao$pEAmrtJqUzARPSSW8U1Lw6dXvoC/XQvfkDtdlKaYOsY=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "pinky",
+        "first_name": "",
+        "last_name": "",
+        "email": "pinky@yahoo.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-05T04:22:17.880Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$bNS1t6KjUlOYjQYvnviTdT$aCsmj45hNXIR7acOINlL11821SM3u+azg9fQXVxFrwA=",
+        "last_login": "2026-06-07T17:58:57.897Z",
+        "is_superuser": true,
+        "username": "swarnimsinha",
+        "first_name": "",
+        "last_name": "",
+        "email": "sinha@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-07T17:40:33.092Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$yOZEjtVpPwfVAbIOW7D2Fg$emaoeoRSBmStMDo8NMoWUAGbF72SZ/wNdvrAHzG9TEs=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "rac",
+        "first_name": "",
+        "last_name": "",
+        "email": "rac@mail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-15T10:11:43.137Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$9BLsaMg25uJn8L0te3VOCQ$xwySZC+mJwCzipoRAlck7iVPF7JtAXZQZ2ROVFChTtg=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "gg",
+        "first_name": "",
+        "last_name": "",
+        "email": "gg@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-15T10:17:26.938Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$Dl5Z7byRllGsngT03C2fbG$7Rjo5+tKs+RHk82ZBy6qGrDYGxxgk61uiSK6Uq31g+4=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "nikita",
+        "first_name": "",
+        "last_name": "",
+        "email": "nik123@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-15T17:36:46.421Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$LsETXLCxUhxZvI5Z0gtYM5$J09qpDA2SrUd4R9m6jH1NJzZM5t64rTq6sgKuqTR7lo=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "bob",
+        "first_name": "",
+        "last_name": "",
+        "email": "bob@abc.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-18T15:06:41.953Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$hF6cZnFpW7SrT0W9fFLVVR$+vHuZsKFCDoNSA1czXsrKy22oyksM9QKykmnw+Ed+9g=",
+        "last_login": "2026-06-23T07:56:27.119Z",
+        "is_superuser": true,
+        "username": "AdminAmit",
+        "first_name": "",
+        "last_name": "",
+        "email": "adminamit@mail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2026-06-18T16:16:56.263Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$pQi4kiRRYwYNtfpLlUWmzD$/zyFzBKP7TicBr5frqsLZIpaRCm27jzWKhsRV3IfB40=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "asdgsdfg",
+        "first_name": "",
+        "last_name": "",
+        "email": "dfgsdf@posdfg.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T17:51:49.242Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$ymdUhUDfzAeWsmXKKBsbYn$+i/lIqjZRKRLJaO3mgzL7JZ10g2ja5bO3Jw1jMUgQF8=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "fhsdfh",
+        "first_name": "",
+        "last_name": "",
+        "email": "dfhfhsgh@email.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T18:26:14.359Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$aGjiTMoToKThTLNUJBqVse$K4RiX7PTDuLBqhI9oqAqvybcdWoTLcpCc2waOhmY8e4=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "koitohhu",
+        "first_name": "",
+        "last_name": "",
+        "email": "koitohhu@mail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T19:28:41.728Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$oE44hXirGSeZceDFjIJihP$Lx6S48wUPsrCVHg/+bfHCJDmm9KFgoiGcwZ7CF6/tfQ=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "koi",
+        "first_name": "",
+        "last_name": "",
+        "email": "koitohhu@mail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T19:29:59.400Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$qN4eeG835T7cadO1KDKzO7$4BNfEGBNJSCTBEwbd+EKI3CbdbBD8L79ECC2/NNp5Ro=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "trail1",
+        "first_name": "trail1",
+        "last_name": "",
+        "email": "trial1@mail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T20:01:18.047Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$1200000$zHvgfgQr3VodgOBmqOSJKT$tzq5Ny4UzobpZuUGSy2P5npPkWxDna1DSZwZcyYBP2k=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "bhai",
+        "first_name": "bhai",
+        "last_name": "",
+        "email": "bhai@mail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2026-06-23T21:51:45.729Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "660p3n7l9wwkgxkv6hz41gbz788j1ere",
+    "fields": {
+        "session_data": ".eJxVjLsOwjAMAP_FM4pap03ijux8Q-TGMSmgVOpjQvw7qtQB1rvTvSHyvpW4r3mJk8AAAS6_bOT0zPUQ8uB6n02a67ZMozkSc9rV3GbJr-vZ_g0KrwUGGJvgrbhMpJaUesmi6C16Z4NS6NpA0qXELNiKOmRUlMb3Xlm1R4LPF-qnODM:1wbvzf:bVy5eOZiaNskNZ92MJ7opg7b9f1lyF1c7HaLakSj0KQ",
+        "expire_date": "2026-07-07T07:56:27.127Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "uyu7eyrvpii26scjnjwslwq7tyrmpn00",
+    "fields": {
+        "session_data": ".eJxVjMsOwiAQRf-FtSECQ2lduu83kJlhkKopSR8r478rSRe6veec-1IR963EfZUlTkldlFOn342QHzI3kO4436rmOm_LRLop-qCrHmuS5_Vw_w4KruVbn4V96HpBsokH63v0PkMG4M4iGXIGGCEEsJIbc2KJAYCSIRkE1fsD8k44iA:1wWHlx:ygJZgslXJZDpftWwJR_BAmTaBRLXmEECUWvx_Ny75Eo",
+        "expire_date": "2026-06-21T17:58:57.906Z"
+    }
+},
+{
+    "model": "entry.product",
+    "pk": 1,
+    "fields": {
+        "name": "SEO Package",
+        "description": "Basic SEO Service",
+        "price": "4999.00",
+        "image": "https://example.com/image.jpg"
+    }
+},
+{
+    "model": "entry.cartitem",
+    "pk": 2,
+    "fields": {
+        "user": [
+            "pinky"
+        ],
+        "product": 1,
+        "quantity": 2,
+        "created_at": "2026-06-07T18:19:17.560Z"
+    }
+},
+{
+    "model": "entry.cartitem",
+    "pk": 3,
+    "fields": {
+        "user": [
+            "pinky"
+        ],
+        "product": 1,
+        "quantity": 4,
+        "created_at": "2026-06-07T18:19:34.595Z"
+    }
+},
+{
+    "model": "entry.title",
+    "pk": 2,
+    "fields": {
+        "heading": "Scale Distribution Infrastructure",
+        "sub_heading": "We build high-fidelity visual channels that convert organic attention into strategic revenue pipelines.",
+        "image": ""
+    }
+},
+{
+    "model": "entry.testimonial",
+    "pk": 21,
+    "fields": {
+        "quote": "I knew I would hire them one day—and once I started video distribution, they were the only choice. Month one: 6M views. They truly understood my style.",
+        "name": "Jasmin Alić",
+        "position": "LinkedIn Premium Creator",
+        "metric": "6.2M Views",
+        "image": ""
+    }
+},
+{
+    "model": "entry.testimonial",
+    "pk": 22,
+    "fields": {
+        "quote": "I wouldn't have even started my visual distribution journey if it wasn't for them. Their execution speed speaks for itself. Hands-off excellence.",
+        "name": "Lara Acosta",
+        "position": "Founder, Literally Academy",
+        "metric": "400k+ Follows",
+        "image": ""
+    }
+},
+{
+    "model": "entry.testimonial",
+    "pk": 23,
+    "fields": {
+        "quote": "We collaborated for 3 months, outputting 45 high-caliber clips. They manage raw media effectively, respect instructions, and deliver consistently.",
+        "name": "Jimmy Conover",
+        "position": "Scale Video Agency",
+        "metric": "150% CTR",
+        "image": ""
+    }
+},
+{
+    "model": "entry.websitesettings",
+    "pk": 4,
+    "fields": {
+        "video1": "https://player.cloudinary.com/embed/?cloud_name=dg7ayxmhb&public_id=Digital_Marketing_Agency_Promo_Video___Leading_Creative_Marketing_Agency_Launch_91Digitals_1080p_gfbmmf",
+        "video2": "https://www.youtube.com/embed/ypy4m_L680A",
+        "video3": "https://www.youtube.com/embed/EngW7tLk6r8",
+        "showHeroTexts": false,
+        "phase1Label": "PHASE 01 // INTERVIEW ARCHITECTURE",
+        "phase1Title": "We Extract Your Core Narrative",
+        "phase1Desc": "Our production team conducts targeted, high-fidelity conversational mappings to gather raw authority assets.",
+        "phase2Label": "PHASE 02 // RETENTION ASSEMBLY",
+        "phase2Title": "Applying High-Performance Cuts",
+        "phase2Desc": "Refining auditory beats, adding volt structural graphics, and formatting hooks to capture organic feeds.",
+        "phase3Label": "PHASE 03 // FULL-SCALE EXPANSION",
+        "phase3Title": "The Absolute Distribution Cadence",
+        "phase3Desc": "Your brand claims real estate on TikTok, Reels, Shorts, and LinkedIn simultaneously. Scroll down to deploy your engine.",
+        "heroSubtitle": "",
+        "testimonialSubtitle": "PARTNER REVIEWS",
+        "testimonialTitle": "PROVEN SYSTEM REPUTATION",
+        "testimonialDescription": "Discover observations from leaders who scale their presence using our systematic workflows.",
+        "bookingTitle": "ALIGN THE FLUID PROCESS",
+        "bookingSubtitle": "Book a diagnostic call to map your distribution framework inline instantly."
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2026-06-07T18:00:01.388Z",
+        "user": [
+            "swarnimsinha"
+        ],
+        "content_type": [
+            "entry",
+            "product"
+        ],
+        "object_id": "1",
+        "object_repr": "SEO Package",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2026-06-07T18:11:25.511Z",
+        "user": [
+            "swarnimsinha"
+        ],
+        "content_type": [
+            "entry",
+            "cartitem"
+        ],
+        "object_id": "1",
+        "object_repr": "CartItem object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
