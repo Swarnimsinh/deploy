@@ -2,6 +2,7 @@ services:
   - type: web
     name: django-backend
     runtime: python
+    buildCommand: "./build.sh"
     buildCommand: "bash build.sh"
     startCommand: "gunicorn main.wsgi:application"
     envVars:
