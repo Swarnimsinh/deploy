@@ -2,7 +2,6 @@ services:
   - type: web
     name: django-backend
     runtime: python
-    buildCommand: "./build.sh"
     buildCommand: "bash build.sh"
     startCommand: "gunicorn main.wsgi:application"
     envVars:
@@ -13,8 +12,9 @@ services:
       - key: DATABASE_URL
         value: "postgresql://neondb_owner:npg_Sj4TudF8yCrR@ep-aged-shape-at12c3lf-pooler.c-9.us-east-1.aws.neon.tech/neondb?sslmode=require&channel_binding=require"
       - key: DJANGO_SUPERUSER_USERNAME
-        value: "admin"
+        value: "adminamit"
       - key: DJANGO_SUPERUSER_EMAIL
-        value: "admin@example.com"
+        value: "adminamit@example.com"
       - key: DJANGO_SUPERUSER_PASSWORD
-        sync: false # User must set/update this in the Render dashboard
+        value: "thisisthepassword69"
+
