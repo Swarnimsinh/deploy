@@ -16,5 +16,5 @@ services:
       - key: DJANGO_SUPERUSER_EMAIL
         value: "adminamit@example.com"
       - key: DJANGO_SUPERUSER_PASSWORD
-        value: "#@admin12345amit#@"
+        value: "thisisthepassword69"
 
